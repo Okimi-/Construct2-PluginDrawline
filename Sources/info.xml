@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<c2addon>
+	<!-- One of: plugin, behavior, effect -->
+	<type>plugin</type>
+	
+	<name>Draw line</name>	
+	<version>0.1</version>
+	<author>Okimi</author>
+	<website>http://www.atelier-okimi.net</website>
+	<documentation></documentation>
+	<description>Easy draw lines.</description>
+</c2addon>
