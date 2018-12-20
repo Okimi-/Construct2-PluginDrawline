@@ -6,4 +6,6 @@ Pluging for Construct2 for drawing lines at runtime
 
 Have fun and send me your game screen shoots, i'm curious to see the using of this plugin.
 
+PS: You must set "Enable WebGL" to Off, in the Layout/Configuration Settings to see lines.
+
 Okimi - 2018 - contact[at]atelier-okimi[dot]net
